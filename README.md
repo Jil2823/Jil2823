@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jil2823&label=Profile%20views&color=0e75b6&style=flat" alt="jil2823" /> </p>
 
-- 🔭 I’m currently working on [JpFolio](https://jil2823.github.io/jpfolio.github.io/)
+- 🔭 I’m currently working on [JpFolio](https://jpfolio.tk/)
 
 - 🌱 I’m currently learning **html , css ,javascript, java**
 
