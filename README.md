@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **html , css ,javascript, java**
 
-- 👨‍💻 All of my projects are available at [https://jil2823.github.io/jpfolio.github.io/](https://jil2823.github.io/jpfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://jil2823.github.io/jpfolio.github.io/](https://jpfolio.netlify.app/)
 
-- 📫 How to reach me **jilprajapati45@gmail.com**
+- 📫 How to reach me **28jilprajapati@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
